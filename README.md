@@ -1,10 +1,10 @@
 A web-based application for adding and removing watermarks from videos. This project allows users to upload a video, overlay a watermark image, adjust the watermark’s position and size, and download the watermarked video.
 
 Features
-Video Upload: Easily upload a video file to apply watermarks.
+Video Upload: Easily upload a video file to apply watermarks..
 Watermark Upload: Supports PNG, JPEG, and GIF images for watermarks.
 Interactive Watermark Placement: Drag and resize the watermark to position it on the video as needed.
-Responsive Design: Works across different screen sizes.
+Responsive Design: Works across different screen sizes
 Download Processed Video: Smooth, efficient downloading after processing.
 Limitations
 This project is a basic watermarking tool and is not meant for heavy video editing. Video processing is handled on the client side or via a backend service for smaller projects.
